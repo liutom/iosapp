@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.longwayeb.com/apps/LONGWAYOA.ipa</string>
+					<string>http://www.longwayeb.com/apps/longwayoa.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.longway.longwayoa</string>
+				<string>com.longway.oa</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>LONGWAY App download</string>
+				<string>longway oa App download</string>
 			</dict>
 		</dict>
 	</array>
